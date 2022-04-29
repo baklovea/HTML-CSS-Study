@@ -1,0 +1,33 @@
+#par1{
+    color: blue;
+    padding-bottom: 5px;
+    text-transform: capitalize;
+}
+#par2{
+    color: red;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}
+#par3{
+    color: #98134a;
+    padding-bottom: 5px;
+    font-weight: bolder;
+}
+#par4{
+    color: rgb(120, 155, 140);
+    padding-bottom: 5px;
+}
+#par5{
+    color: blueviolet;
+    padding-bottom: 5px;
+    text-indent: 50px ;
+}
+#par6{
+    column-count: 3;
+    column-rule: 3px solid blueviolet;
+    font-family: 'Dancing Script', cursive;
+}
+#par7{
+   padding-top: 150px;
+   text-shadow: 1px 1px 2px pink; 
+}
